@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vasagor
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & Git
 - 💞️ I’m looking to collaborate on e-shops & games
 - 📫 How to reach me jose@londoneyepad.com
 
